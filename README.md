@@ -1,3 +1,5 @@
+# Copula_practice
+
 This folder contains:
 
 
@@ -20,3 +22,9 @@ This is a collection of my attempts to reproduce the plots from Takeuchi (2010).
 First, the Frechet-Hoeffding lower and upper bounds for copulas:
 So far I have produced 2D contour plots for the lower and upper bounds, these are named
 'lowerBoundFH.png' and 'upperBoundFH.png' respectively, and are kept within the Figures folder within this directory.
+
+
+
+Figure list with code that produces them:
+lowerBoundFH.png 					- Takeuchi2010.R
+upperBoundFH.png					- Takeuchi2010.R
