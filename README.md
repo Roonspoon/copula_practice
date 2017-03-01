@@ -27,5 +27,7 @@ So far I have produced 2D contour plots for the lower and upper bounds, these ar
 
 
 Figure list with code that produces them:
+
 lowerBoundFH.png 					- Takeuchi2010.R
+
 upperBoundFH.png					- Takeuchi2010.R
